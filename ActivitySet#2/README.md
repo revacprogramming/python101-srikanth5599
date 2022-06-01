@@ -19,12 +19,9 @@ input? 1 2
 
 ### Activity 3
 
-> Input
-```
-system=s;database=d;username=u;password=p
-```
-> Output
-```
+> Input system=s;database=d;username=u;password=p
+
+ Output
 [('system','s'),(database','d'),('username','u'),('password','p')]
 ```
 
@@ -37,7 +34,6 @@ system=s;database=d;username=u;passwd=p
 > Output
 ```
 [('system','s'),('database','d'),('username','u'),('passwd','p')]
-system=s;database=d;username=u;passwd=p
 ```
 
 ### Activity 5
