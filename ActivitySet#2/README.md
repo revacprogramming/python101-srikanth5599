@@ -50,8 +50,4 @@ system=s;database=d;username=u;password=p
 
 ### Activity 6
 
-> Output
-```
-idly 10
-vada 20
 ```
